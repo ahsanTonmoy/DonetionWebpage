@@ -1,0 +1,12 @@
+.active{
+    background-color: transparent !important;
+    color: #FF444A !important; 
+    border-bottom: 2px solid #FF444A;
+    border-radius: 0;
+}
+
+li:hover a{
+    background-color: transparent !important;
+    opacity: 1;
+    border-radius: 0;
+}

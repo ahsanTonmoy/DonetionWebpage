@@ -1,0 +1,7 @@
+
+.bgImg{
+    background-image: url('./Bannar.jpg');
+    background-size: 100% 80vh;
+    width: 100%;
+    height: 80vh;
+}
